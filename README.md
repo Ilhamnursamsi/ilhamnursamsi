@@ -7,3 +7,10 @@ Saya seorang **Mahasiswa** di STIKOM POLTEK Cirebon.<br>
 Saya mengambil jurusan Teknik Informatika.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ilham-nursamsi-1a836b3a3/)ku ya.
+
+<p align="left">
+<a href="https://github.com/Ilhamnursamsi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ilhamnursamsi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ilhamnursamsi&layout=compact&theme=algolia"/>
+</a>
+</p>
